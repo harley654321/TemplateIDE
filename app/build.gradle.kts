@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.harley.TemplateIDE"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.harley.TemplateIDE"
