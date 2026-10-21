@@ -56,7 +56,7 @@ kotlin {
 dependencies {
     implementation("androidx.core:core-ktx:1.19.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.11.0")
-    implementation("androidx.activity:activity-compose:1.14.0")
+    implementation("androidx.activity:activity-compose:1.13.0")
 
     // BOM 2026.09.00 (estable, sept-2026): gobierna todas las
     // versiones de Compose; sus libs fueron compiladas con Kotlin
